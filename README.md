@@ -17,3 +17,16 @@ Issues encountered
 
  All other setup steps were completed successfully
 
+
+
+What i collected
+- recent linkedin post from selected industry experts
+- youtube video transcripts
+- additional recources where available
+- source documentation with links
+
+Why i choose these experts:
+- they actively practice and publish content to related topic
+- they recognized industry contributons
+- they consistently share actionable insight
+- they provide variety of perspecitives across strategy, content creation and measurement
